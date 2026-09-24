@@ -1,0 +1,17 @@
+# This is wirtten so the .gitignore is not ignored
+!.gitignore
+
+# Python artifacts
+__pycache__
+
+# Mypy cache
+.mypy_cache
+
+# Virtual Environment
+.venv
+
+# Random stuff
+test.txt
+moulinette
+data/output
+data/test
