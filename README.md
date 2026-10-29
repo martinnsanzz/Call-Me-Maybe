@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="assets/Call_Me_Maybe.png" width="60%" alt="A_Maze_Ing">
+</p>
 <h3 align="center">
   <em>Introduction to function calling in LLMs</em>
 </h3>
