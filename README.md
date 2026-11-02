@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/SCORE-110-%235CB338?style=for-the-badge&logo=42&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bonus-40%25-orange?style=for-the-badge&logo=starship&logoColor=white"/>
-  <img src="https://img.shields.io/badge/COMPLETED-25/04/2026-%23007ACC?style=for-the-badge&logo=calendar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COMPLETED-02/09/2026-%23007ACC?style=for-the-badge&logo=calendar&logoColor=white"/>
 </div>
 
 ## ⚠️ Disclaimer
